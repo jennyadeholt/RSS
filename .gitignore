@@ -12,6 +12,8 @@
 bin/
 gen/
 target/
+.idea
+aa-gen
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -20,3 +22,4 @@ local.properties
 .classpath
 .project
 
+rss.iml

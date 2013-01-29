@@ -67,6 +67,7 @@
             <artifactId>spring-android-core</artifactId>
             <version>1.0.0.RELEASE</version>
         </dependency>
+
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpmime</artifactId>
@@ -79,6 +80,7 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
+
 
 	<build>
 		<finalName>RSS</finalName>

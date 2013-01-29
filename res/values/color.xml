@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="text_green">#00f000</color>
+    <color name="text_blue">#8ceaff</color>
+
+    <color name="menu_bar_quizboard_bg_top">#2eaae3</color>
+    <color name="menu_bar_quizboard_bg_bottom">#1488be</color>
+    <color name="menu_bar_quizboard_bg_center">#2eaae3</color>
+    
+    <color name="menu_bar_quizbattle_bg_top">#a6bed0</color>
+    <color name="menu_bar_quizbattle_bg_bottom">#7999ad</color>
+    <color name="menu_bar_quizbattle_bg_center">#a6bed0</color>
+
+    <color name="menu_bar_points_bg_top">#1488be</color>
+    <color name="menu_bar_points_bg_bottom">#0d628a</color>
+    <color name="menu_bar_points_bg_center">#1488be</color>
+
+    <color name="icon_highlight_bg_top">#155173</color>
+    <color name="icon_highlight_bg_bottom">#0e3d58</color>
+    <color name="icon__highlight_bg_center">#155173</color>
+
+    <color name="list_green_top">#1fb01f</color>
+    <color name="list_green_bottom">#087108</color>
+
+    <color name="list_grey_top">#ffffff</color>
+    <color name="list_grey_bottom">#eaeaea</color>
+    <color name="list_grey_top_pressed">#c8deea</color>
+    <color name="list_grey_bottom_pressed">#c8deea</color>
+
+    <color name="header_pink_top">#d21bad</color>
+    <color name="header_pink_bottom">#a30a85</color>
+
+    <color name="header_grey_top">#a0a0a0</color>
+    <color name="header_grey_bottom">#6c6c6c</color>
+
+    <color name="play_board_bg_top">#1aa21a</color>
+    <color name="play_board_bg_center">#1aa21a</color>
+    <color name="play_board_bg_bottom">#0e730e</color>
+
+    <color name="question_list_bg_top">#175476</color>
+    <color name="question_list_bg_bottom">#083f5e</color>
+
+    <color name="twitter_button_top">#66d3f7</color>
+    <color name="twitter_button_bottom">#23bbed</color>
+
+    <color name="facebook_button_top">#1e7ed2</color>
+    <color name="facebook_button_bottom">#0a5aa1</color>
+
+    <color name="transparant_top">#55175476</color>
+    <color name="transparant_bottom">#55083f5e</color>
+    
+    <color name="menu_shadow_top">#80000000</color>
+    <color name="menu_shadow_bottom">#00000000</color>
+
+    <color name="selected_question_top">#1d638a</color>
+    <color name="selected_question_bottom">#2576a2</color>
+
+
+</resources>
